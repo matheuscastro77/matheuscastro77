@@ -1,4 +1,4 @@
-# Hello, I'm Matheus Castro. I'm studying FullStack Developer at <a href='www.labenu.com.br'> Labenu </a>
+# Hello, I'm Matheus Castro. I'm FullStack Developer </a>
 
 
 
