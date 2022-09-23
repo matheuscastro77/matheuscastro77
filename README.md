@@ -1,7 +1,7 @@
 # Hello, I'm Matheus Castro. I'm Frontend Developer </a>
 
 My portfolio: https://matcastro.vercel.app/
-<br/> OBS: I am updating its responsiveness daily, it was developed in 1920 x 1080
+<br/> OBS: I am updating its responsiveness daily
 
 
 
