@@ -3,9 +3,6 @@
 ## My portfolio: 
 [Classic Portfolio](https://matcastro.vercel.app/) <br/>
 [Fun Portfolio](https://fun-portfolio-five.vercel.app/)<br/>
-<a href="https://fun-portfolio-five.vercel.app/" target="_blank">Fun Portfolio</a>
-
-
 
 
 <div> 
