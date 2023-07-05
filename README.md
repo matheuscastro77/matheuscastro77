@@ -2,8 +2,8 @@
 
 ## My portfolio: 
 [Classic Portfolio](https://matcastro.vercel.app/) <br/>
-[Fun Portfolio](https://fun-portfolio-five.vercel.app/)
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+[Fun Portfolio](https://fun-portfolio-five.vercel.app/)<br/>
+<a href="https://fun-portfolio-five.vercel.app/" target="_blank">Fun Portfolio</a>
 
 
 
