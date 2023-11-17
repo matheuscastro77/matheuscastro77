@@ -15,7 +15,7 @@
    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/brunofeu/brunofeu/main/code.gif"  width="375px" height="230" />
  
   
-  # Technologies I use in my day-today
+  # Technologies I use in my day
   
  <div style="display: inline_block"><br>
  
