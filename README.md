@@ -6,7 +6,7 @@
 
 
 <div> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuscastro77&show_icons=true&theme=dark&count_private=true&include_all_commits=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuscastro77&show_icons=true&theme=dark&count_private=true">
 <!-- &include_all_commits=true -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscastro77&layout=compact&langs_count=16&theme=dark">
     
