@@ -16,18 +16,12 @@
  
   
   # Technologies I use in my day
+
+ [![Habilidades front-end](https://skillicons.dev/icons?i=html,js,ts,threejs,react,next,css,sass,styledcomponents,tailwind,materialui)](https://skillicons.dev)
+
+[![Habilidades front-end](https://skillicons.dev/icons?i=figma,git,github,vercel,vscode)](https://skillicons.dev)
   
- <div style="display: inline_block"><br>
- 
-   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  
-   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
-   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
-   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" />
 
-
-</div>  
   
   ## 
 
